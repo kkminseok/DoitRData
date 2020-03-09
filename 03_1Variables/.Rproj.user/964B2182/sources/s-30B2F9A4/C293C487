@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583662976365.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C293C487",
+    "lastKnownWriteTime" : 1583663280,
+    "last_content_update" : 1583663280004,
+    "path" : "D:/Code/DoitR/03_1Variables/03_1.R",
+    "project_path" : "03_1.R",
+    "properties" : {
+        "cursorPosition" : "34,9",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

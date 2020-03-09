@@ -1,0 +1,9 @@
+install.packages("ggplot2")
+
+library(ggplot2)
+library()
+.libPaths()
+x <- c("a","a","b","c")
+x
+qplot(x)
+

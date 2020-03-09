@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583745477431.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2577837653",
+    "id" : "8E35E847",
+    "lastKnownWriteTime" : 1583747975,
+    "last_content_update" : 1583747975429,
+    "path" : "D:/Code/DoitR/05_Data_analysis/05_02VariableChange.R",
+    "project_path" : "05_02VariableChange.R",
+    "properties" : {
+        "cursorPosition" : "16,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

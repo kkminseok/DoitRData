@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583744267718.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1782123790",
+    "id" : "2B031D90",
+    "lastKnownWriteTime" : 1583747975,
+    "last_content_update" : 1583747975414,
+    "path" : "D:/Code/DoitR/05_Data_analysis/05_01DataView.R",
+    "project_path" : "05_01DataView.R",
+    "properties" : {
+        "cursorPosition" : "18,9",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

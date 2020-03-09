@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583741999785.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3295479728",
+    "id" : "9032F712",
+    "lastKnownWriteTime" : 1583744237,
+    "last_content_update" : 1583744237338,
+    "path" : "D:/Code/DoitR/04_DataFrame/04_03OutData.R",
+    "project_path" : "04_03OutData.R",
+    "properties" : {
+        "cursorPosition" : "9,18",
+        "scrollLine" : "32",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583740486675.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1049240429",
+    "id" : "8DB35C42",
+    "lastKnownWriteTime" : 1583741292,
+    "last_content_update" : 1583741292703,
+    "path" : "D:/Code/DoitR/04_DataFrame/04_02MakeDataFrame.R",
+    "project_path" : "04_02MakeDataFrame.R",
+    "properties" : {
+        "cursorPosition" : "22,5",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

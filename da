@@ -1,0 +1,60 @@
+[33mcommit bfaa4b41ac704b13278e2cc5343a7a021bd64b0a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: kms <aaaa727@khu.ac.kr>
+Date:   Fri Mar 20 16:29:44 2020 +0900
+
+    2020_03_20
+
+[33mcommit 4398febbc9c21550f277a6f469d1ae377e33216e[m
+Author: kms <aaaa727@khu.ac.kr>
+Date:   Fri Mar 20 16:27:16 2020 +0900
+
+    2020_03_20
+
+[33mcommit b48b8b055216cb03fd6a72d59a26fb7af1676839[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: kms <aaaa727@khu.ac.kr>
+Date:   Tue Mar 17 21:39:20 2020 +0900
+
+    2020_03_17
+
+[33mcommit 53bd71e6ede6099baedd6f32d6f5ed2a24cbfb97[m
+Author: kms <aaaa727@khu.ac.kr>
+Date:   Sun Mar 15 19:56:14 2020 +0900
+
+    07_Data_Refine
+
+[33mcommit 9022d2007e83fe3e67d26219b0f3357c659a060e[m
+Author: aaaa727 <aaaa727@khu.ac.kr>
+Date:   Sun Mar 15 17:08:22 2020 +0900
+
+    06Data_doit
+
+[33mcommit 486cece78ea22c4f65048e602bd0c62c533d50d1[m
+Merge: b8ee726 73df83c
+Author: aaaa727 <aaaa727@khu.ac.kr>
+Date:   Mon Mar 9 19:49:24 2020 +0900
+
+    Merge branch 'master' of https://github.com/kkminseok/DoitRData
+
+[33mcommit b8ee7261b173304b984653c46b4c8551676f335b[m
+Author: aaaa727 <aaaa727@khu.ac.kr>
+Date:   Mon Mar 9 19:46:23 2020 +0900
+
+    RData_5
+
+[33mcommit 73df83c3e53ad4536f34ee8e71a1751089e44497[m
+Author: kkminseok <30401054+kkminseok@users.noreply.github.com>
+Date:   Mon Mar 9 19:45:20 2020 +0900
+
+    Create README.md
+
+[33mcommit 78e96ebafd45f1fca98d99ebd94cb897fc3be5bb[m
+Author: aaaa727 <aaaa727@khu.ac.kr>
+Date:   Mon Mar 9 19:43:47 2020 +0900
+
+    RData_4
+
+[33mcommit 7da2179d7d66e06ba03fb8d6d001746b698f7054[m
+Author: aaaa727 <aaaa727@khu.ac.kr>
+Date:   Mon Mar 9 19:42:08 2020 +0900
+
+    RData_3
